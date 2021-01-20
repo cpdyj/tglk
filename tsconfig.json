@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ES2020"
+  },
+  "files": ["lib.deno.d.ts", "index.ts"]
+}
